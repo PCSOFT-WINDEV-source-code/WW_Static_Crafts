@@ -1,0 +1,237 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Static_Crafts
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAADfAVwybzXR6EXWEY2C8GYha+YHvOATyluaUzTdDr2f7k/TtD6xPQP+4bME9EtOyVTao+GPAvcw4ccy5jFPm4FUF0QeK/mmOJLFpfDhhrfq5c3idmRgQSAp6+hE3iZw4pEpcrW/LcfGv/hH9WEOKjg+qGc7qyDDYH5jfzw+11jH17K9Xbyy5gIWt8F8tKGPM+ficEYai0eLx+pzJq8L/OpHrZ6k0b8p6/HoNx2ha4QVoAIJgh6odvyPWTZhUCnPY3wwwFUPMRkkMqaasjRWkWjlSCnvjOe+EypyGTU9IEWkjtRdGnckFUfqf5qaMBgXdDcHIQ0MRFpTPyDOVrSuTNDKNFXvXulLDV1m7+NCKrUSzAt4Knofz/0CjO2SJjWXx35uiMxDUPEGZre6ElHA/VeNFRlKwbUdge5QSgsOzFCAxpgFHLasoZWfmIYYbk0vdj2v3lPiEJWoXt7Q558IdH5gS7hwB/88xIFJrh//7Cqaxy1IdWL49+Fjca294Ytm/As1Jw1r+lagJtYkGygbBPUF92JIXw47NxGzZ1K2O/EfgNhXTYvQye5oZCWW88M3XTZuB5pq0KqGkJYmO8X2qe7t/deCPx6CnPlXH+6EVw+BrrDVmnB1qzz4IWcgpkH55p7RIyNhyRwTMqzZ6BCUbEIktWX4m52xa7QiTExbXj6fPAXa+GwLfmUOdFTmLl7nuZDyDIAlH3+R47LSxtGkyReAmMv6Bfg5lLEFslSqZi0RERAvqg7xcCILr+0LHu9eLyEM47kQt6hqWsKvA+L9JcJmoW0/Nf5/zsc2u5/jr9PEUPhCkD2sFMYqPdxjjJ+phknaeh4v07aPNrAhxUNqaK9Tyngkld1w+TVDvs7XA5QGmstCQWRJiLp62Ynn5f9awPb8dzoXPlTTdKkk/FKcJDE8LRtglLTXdLEoqs+keimqrzxTfQwqmApNX1fpchwt2VnamvX8QI3mFDX8Tix9ZycY6PFNEfh5UUUFC3Q0xXXk0f7gSPPVyPo4gT179bSXjmgqqTQ6tchuSUJOya0rBFp9cOseV3juRMFN1RUTGpopgf9vqSLhN4cu9PnFsbekGrA7eWYg6KNXbRm/pFN0pFl/H8EmRXoF6hna84HY5cLchzppF3mE2xWSjDpXmMz/EiLWYjWkW8Eq0FgsmMw3/bkMLsbP1Z9pzSRA9E/xC5h5DNi3DPctThw/0cNQbvs2fDLXLojbkg2qbxw1GlZA1XArX9hFgxaI0FNNatUNBoHyx5omdRBvHwlFdpZp41DdTteqQHMpIgvqQLXnPl6URkEx/VBANSLGi33NXOjyUFSPJuz30E6i3VJhCz/aLPCo2B6FZOi9pgOxnkI8UZYJU8e/q9QD3rQbAyxY2azN+sFanaggYSPUQWFHk5P+Nq5YP/oIc3em4PJcNAFoWxl5znEyHGk6GxfBNdTjFC2yqzyqwZT+yxgAxWj15H24liEuGpOoesCZoZx8SQLoOXdYnFOG185VeMv/qYNIBMzIVsZN0uBZ0ErwcXSFqLwLt5ffNy6EY1vtBmsvVsafwG60qiBYp4Zpxr00S3Po1ShGfo04bHU8tNxnR9w86dyL//JmmJeo+VBx/2G5lFwebL81xsLJB7ARiK3xchkUglWOjyP8OixeXfxIPI96vDA99ndCWXnW11ol3UoYHU1TIJNytsOX3enoOPwFCZOnF+25HAFQZ7St09YsqaZmbYsVT2KTKJVH/xz6OYyocy+XqiWuTKFqgTqK8ARipYv7xe3EoWVUhEtF2Cx4KXnMbWags0tDC1ly2k3nrLqG9GtI0Tl2r98PKGprE+08VEL/tq4aI6HsS7efV8gYyzkpFP73Dj6DG89YsoK6RcI/EM4iHInS7Bw8WMtWpub8inhsFHCy0lV6TfssdoxuGn7/aOpfFU44Rq7A3g8BSg/WefRTHqDE
+ configurations :
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 17550549543025034302
+    type : 2
+    generation_name : WW_Static_Crafts.wdl
+    version : {}
+    index_page_generation_name : index
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x425ea7eb001b9c17
+  elements :
+   -
+     name : index
+     identifier : 0x42826ac3021e48fb
+     internal_properties : CAAAAAgAAACon/IP/wcC9gsdjKi083iLhD4rwpbyXY5hq4q6be3UaKdZee2Mnsjma/wo8lidf8cit3gBC7IRMnOinlS0UG/4N0yjUA==
+     physical_name : .\index.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : Model
+     identifier : 0x425ea82500248109
+     internal_properties : CAAAAAgAAACA/vgkg/iw68KuK7cPTrz2YGNvd0aeGxVWjZ7K5gyAQIRKAwID/2bbj4t1Q8M9xTuFjQ==
+     physical_name : .\Model.wwt
+     type : 65541
+   -
+     name : creations
+     identifier : 0x42862d4900ec488a
+     internal_properties : CAAAAAgAAABkZwemBbkjCFZKB5CguJjjwmUxVp+yLYynK5N+L7jhtnb2OTH6t6K+sS7DzkZ3q0B29syCjAO8NToYPlP7RBvQlhjaJN4=
+     physical_name : .\creations.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : events
+     identifier : 0x42cc3b4a001dba53
+     internal_properties : CAAAAAgAAAACdTTJOVnMMNXPQmoKNTJdVpyNtAiET/jr8XqwByckR+URfYXClFS8leKieCavbTGMGdqvWWzXeLVk0Bpykq26eQ799g==
+     physical_name : .\events.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : creations-plates
+     identifier : 0x43296e74024b71b7
+     internal_properties : CAAAAAgAAACrrv0QEmK7H+z0pbEBKAVIQ5GWl+klrl9qUZ7GrDDMGdqnaOptEyAsvaLhGYdOzJJvBM28Tnfcf4yL9zNLqZSjQFW0Tw==
+     physical_name : .\creations-plates.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : creations-bowls
+     identifier : 0x43296e86024db78d
+     internal_properties : CAAAAAgAAACI/9LvX6diVqu9bEjUk1jrJN5L4jZSfa4hKQwZrpyVfwBBQ4HGHdgYOfIo0nh9H2dCV5hhq9Ix0tNCPvQU8M9YlyyDcA==
+     physical_name : .\creations-bowls.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : creations-mugs
+     identifier : 0x43296e94024fefbc
+     internal_properties : CAAAAAgAAABa3YxBodE0qF0HurICrbrV3hQ1POAsp6AjK3wCKa9licKPVP7Z6YZK7/Qq0H5H1ZkUoVIn0fRfgI2MiKL6GiUy8YZlHg==
+     physical_name : .\creations-mugs.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : TPLC_Menu_Creations
+     identifier : 0x43296ed90251ff27
+     internal_properties : CAAAAAgAAACKgPKWFVLahU2pAOtlz9JgmO/nT3vdLkhfCPxqzVY+sgLcaxQ8hpPbLhWPaSmnU0WPlw==
+     physical_name : .\TPLC_Menu_Creations.wwt
+     type : 65543
+   -
+     name : courses
+     identifier : 0x4329d4d9003b6f5f
+     internal_properties : CAAAAAgAAAB95Ic6xDTt0TYu48tXEt9qrXf4cavv+BmsbDemukNjzaBhU1EqmqdNyv+rV8UAktTR5i/aLFGyVVbFsXmRc0LNan9uBQ==
+     physical_name : .\courses.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : contact
+     identifier : 0x4329d5ad003daa2d
+     internal_properties : CAAAAAgAAAD2cTjdba1wdImbDlY2cf4JAtBZ0IQA20RXxoliMEQ66WChhYOgi2FLlKFG/KIj8bUwRY57jTCTtPEgHNY23tlmhRL5ig==
+     physical_name : .\contact.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+   -
+     name : workshop
+     identifier : 0x42cc3723001b7fe2
+     internal_properties : CAAAAAgAAAACdTTJOVnMMNXPQmoKNTJdVpyNtAiET/jr7gMGH9SVkc//DDi3Vkm3UPmieCavbTGMGdqvWWzXeLVk0Bpykq26eQ799g==
+     physical_name : .\workshop.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 190 Evolution
+ wb_color_palette : PurpuleVolution
+ site_type : 2
+ languages :
+  - en-GB
+ wd_style_sheet : .\WW_Static_Craftsman.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : contact
+     parameters : []
+     title :
+      fr-FR : contact
+      en-GB : contact
+     description :
+      fr-FR : contact
+      en-GB : contact
+   -
+     name : courses
+     parameters : []
+     title :
+      fr-FR : stages
+      en-GB : courses
+     description :
+      fr-FR : stages
+      en-GB : courses
+   -
+     name : creations
+     parameters : []
+     title :
+      fr-FR : Créations
+      en-GB : Creations
+     description :
+      fr-FR : Créations
+      en-GB : Creations
+   -
+     name : creations-bowls
+     parameters : []
+     title :
+      fr-FR : creations-bols
+      en-GB : creations-bowls
+     description :
+      fr-FR : creations-bols
+      en-GB : creations-bowls
+   -
+     name : creations-mugs
+     parameters : []
+     title :
+      fr-FR : creations-mugs
+      en-GB : creations-mugs
+     description :
+      fr-FR : creations-mugs
+      en-GB : creations-mugs
+   -
+     name : creations-plates
+     parameters : []
+     title :
+      fr-FR : creations-assiettes
+      en-GB : creations-plates
+     description :
+      fr-FR : creations-assiettes
+      en-GB : creations-plates
+   -
+     name : events
+     parameters : []
+     title :
+      fr-FR : evenements
+      en-GB : events
+     description :
+      fr-FR : evenements
+      en-GB : events
+   -
+     name : index
+     parameters : []
+     title :
+      fr-FR : Accueil
+      en-GB : Home
+     description :
+      fr-FR : Accueil
+      en-GB : Home
+   -
+     name : workshop
+     parameters : []
+     title :
+      fr-FR : atelier
+      en-GB : workshop
+     description :
+      fr-FR : atelier
+      en-GB : workshop
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x425ea7eb001c9c17
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Statique_Artisant
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

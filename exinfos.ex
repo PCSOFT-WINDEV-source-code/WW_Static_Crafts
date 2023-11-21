@@ -1,0 +1,10 @@
+[INFOS]
+gaf=0
+title=WW_Static_Crafts
+image=description.gif
+description=description.rtf
+source=1
+preview=preview.png
+typesite=0
+[OBJECT]
+WW_Static_Crafts.wwp=4096
